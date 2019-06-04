@@ -4,7 +4,7 @@ title:  "Ch1. 한눈에 보는 머신러닝"
 date:   2019-06-04
 ---
 
-# 주요 내용
+### 주요 내용
 1. 머신러닝이란?
 2. 왜 머신러닝을 사용하는가?
 3. offline learning vs online learning
