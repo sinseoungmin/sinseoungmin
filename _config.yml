@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 혼스
+description: 핸즈온 머신러닝 책의 목차를 따라가며, 관련 DS 기술 등의 내용을 정리하는 블로그
 
 url: http://sinseoungmin.github.io
 baseurl: ""
@@ -16,13 +16,7 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: the_answ3r@naver.com
 
-google_analytics: "UA-58263416-1"
